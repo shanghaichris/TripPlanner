@@ -9,4 +9,16 @@ main goal
 3. Show the routes on the map with your arrangement.
 4. Show the every element's detail.
 5. Calculate the total of cost.
-6. Share to friends.
+6. To Do list before travel.
+7. Package Management.
+8. Share to friends.
+9. Calendar sync with Google Calendar
+
+
+=========================
+modules
+=========================
+1. Travel overview
+2. To-Do list. Packing list. Documents list. With preset items.
+3. Places: City List - Detail(Address, Phone, Review, Business hours, Type, some info else)
+4. Calendar: List View, Day View 
