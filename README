@@ -21,4 +21,36 @@ modules
 1. Travel overview
 2. To-Do list. Packing list. Documents list. With preset items.
 3. Places: City List - Detail(Address, Phone, Review, Business hours, Type, some info else)
-4. Calendar: List View, Day View 
+4. Calendar: List View, Day View
+
+
+
+=========================
+workflow
+=========================
+1. start a new trip
+1.1  set the start place
+1.2  set the destination
+1.3  set the start date
+1.4  set the return date
+1.5  description
+
+2. Set the arrangement of everyday
+2.1 The type of the activity
+2.2 Place to visit
+2.3 City(optional)
+2.4 Country(optional)
+2.5 Time
+2.6 location -> user gmap to located it
+2.7 Notes: business time, price, and description
+2.8 Save it.
+
+3. Resort and edit the arrangements 
+
+4. Share the arrangements to friends
+
+5. Show the all the places (by list, or by map mode)
+
+6. Manage To-Do list
+
+
